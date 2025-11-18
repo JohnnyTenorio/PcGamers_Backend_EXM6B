@@ -14,7 +14,7 @@ Este proyecto implementa una API completa desarrollada con Node.js, Express y Mo
 
 Primero debemos clonar el repositorio dado cado desea clonarlo para obtener el zip desde la carpeta o caso contrario descargarlo manualmente de github en este caso se hace por clonacion 
 
-*Clonar el repositorio en el terminal:*
+*__Clonar el repositorio en el terminal:__*
 
 git clone https://github.com/JohnnyTenorio/PcGamers_Backend_EXM6B.git
 
