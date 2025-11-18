@@ -10,7 +10,7 @@ Pc_Gamer
 
 Este proyecto implementa una API REST completa desarrollada con Node.js, Express y MongoDB, diseñada para gestionar cotizaciones de computadoras personalizadas y un carrito de productos. El sistema permite realizar operaciones CRUD para cada módulo, garantizando validación de datos, manejo de errores y una estructura limpia, modular y escalable.
 
-*Instalación del Proyecto*
+*__Instalación del Proyecto__*
 
 Primero debemos clonar el repositorio dado cado desea clonarlo para obtener el zip desde la carpeta o caso contrario descargarlo manualmente de github en este caso se hace por clonacion 
 
