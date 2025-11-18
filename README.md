@@ -44,7 +44,7 @@ Se debe colocar un comando al terminal o el powerShell para inicializar le saldr
 
 __1.__ nodemon .\index.js
 
-Le saldra un mensaje que el servidor esta iniciado en el puerto 9000 este puerto es el que yo coloque en el server.js y confirmdo en el env.
+Le saldra un mensaje que el servidor esta corriendo en el puerto 9000 este puerto es el que yo coloque en el server.js y confirmdo en el env.
 
 *___Colocar en el navegador por ejemplo chrome o edge__*
 
@@ -60,11 +60,11 @@ Para poder usar la ruta y ver la validacion de que se esta guardando, modificand
 
 *__Para poder ver el manejo del index.html desde ese punto guarda la informacion y envia a carrito usando el metodo de guardar y en la ruta carrito aparece los datos que se guardo desde ahi__*
 
-__1.__ http://localhost:9000/api/carrito
+__1.__ http://localhost:9000/PcGamer/carrito
 
 *__Aqui podra obtener los datos desde la pagina cotizacion.html desde el boton cotiza YA! desde ahi se envia al carrito aparece la informacion  aplicara los dos crud restante el de modificar y el de eliminar y eso funciona con normalidad en las dos rutas__*
 
-__2.__ http://localhost:9000/api/cotizacion
+__2.__ http://localhost:9000/PcGamer/cotizacion
 
 
 
