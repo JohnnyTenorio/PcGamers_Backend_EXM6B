@@ -1,0 +1,108 @@
+:root {
+    --bg: #0a0a0f;
+    --card: #141420;
+    --accent: #a855f7;
+    --accent2: #ff2b4f;
+    --text: #ffffff;
+    --muted: #c6c6d1;
+    --gradient: linear-gradient(135deg, #3b0764, #1e1b4b, #707077);
+}
+
+body {
+    background: var(--gradient);
+    color: var(--text);
+    font-family: Inter, Poppins, system-ui, sans-serif;
+    padding-top: 80px;
+}
+
+.navbar {
+    background: rgba(10, 10, 15, 0.92);
+    backdrop-filter: blur(6px);
+    box-shadow: 0 4px 18px rgba(0, 0, 0, 0.7);
+}
+
+.navbar-brand {
+    color: var(--accent);
+    font-weight: 800;
+    letter-spacing: 0.7px;
+}
+
+.nav-link {
+    color: #d8d8e3;
+    font-weight: 600;
+    transition: 0.2s;
+}
+
+.nav-link:hover {
+    color: var(--accent);
+}
+
+.hero {
+    min-height: 35vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 50px 16px;
+    border-radius: 16px;
+    margin: 12px auto;
+    max-width: 1300px;
+    background: linear-gradient(180deg, rgba(0, 0, 0, .65), rgba(0, 0, 0, .85)),
+        url('../img/HeroContacto.webp') center/cover no-repeat;
+    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.6);
+}
+
+.hero h1 {
+    font-size: 2.8rem;
+    font-weight: 900;
+    color: var(--accent);
+}
+
+.card-config {
+    background: linear-gradient(180deg, var(--card), #0a0a0c);
+    border-radius: 14px;
+    border: 1px solid rgba(168, 85, 247, 0.15);
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.65);
+}
+
+label.form-label {
+    color: #fff;
+    font-weight: 700;
+}
+
+input.form-control,
+textarea.form-control {
+    background: #0e0e18;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    color: #fff;
+}
+
+input.form-control:focus,
+textarea.form-control:focus {
+    border-color: var(--accent);
+    box-shadow: 0 0 8px rgba(168, 85, 247, 0.5);
+}
+
+.btn-danger {
+    background: var(--accent2);
+    border: none;
+    font-weight: 700;
+}
+
+.btn-danger:hover {
+    background: #ff3a63;
+}
+
+footer {
+    margin-top: 50px;
+    padding: 25px 0;
+    text-align: center;
+    background: #0d0d15;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    color: var(--muted);
+}
+
+.card-config h4 {
+    color: var(--text);
+    font-weight: 800;
+}
