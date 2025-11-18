@@ -22,7 +22,7 @@ Despues debemos extraer el proyecto, etc. Y despues entrar a la carpeta del proy
 
 *__Instalar dependencia__*
 
-*__1__*npm install
+*__1__* npm install
 
 En este caso al instalar la dependencia se actualiara todo lo que esta en el packend.json y despues debera instalar dado caso no tenga el nodemon se instala con este comando y tambien los otros comando que se uso dado caso falta alguno 
 
