@@ -56,7 +56,7 @@ Esto seria todo para instalar y poder inicializar el servior con la pagina web i
 
 # Descripción de las rutas de la API.
 
-Para poder usar la ruta y ver la validacion de que se esta guardando, modificando y eliminando correctamente los datos fue establecido como /api/ la ruta principal y en vase a esa se unio lo que es los otros apartado en este caso creé dos el de /carrito/ y /cotizacion/ como se podra usar acontinuacion les colocare las rutas para poder ver los datos 
+Para poder usar la ruta y ver la validacion de que se esta guardando, modificando y eliminando correctamente los datos fue establecido como /PcGamer/ la ruta principal y en vase a esa se unio lo que es los otros apartado en este caso creé dos el de /carrito/ y /cotizacion/ como se podra usar acontinuacion les colocare las rutas para poder ver los datos 
 
 *__Para poder ver el manejo del index.html desde ese punto guarda la informacion y envia a carrito usando el metodo de guardar y en la ruta carrito aparece los datos que se guardo desde ahi__*
 
