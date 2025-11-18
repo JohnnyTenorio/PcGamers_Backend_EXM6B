@@ -1,6 +1,6 @@
 # PcGamers_Backend_EXM6B
 
-Muy buenas maestro soy Tenorio Castillo Johnny Leonel le quiero dar la bienvenida a mi repositorio indicandole mi proyecto de cotizacion de pc acontinuacion le dare mas detallado todo lo realizado desde como isntaalr y poder usar o probar el backend con el frontend.
+Muy buenas maestro soy Tenorio Castillo Johnny Leonel de 6 "B" de TIC le quiero dar la bienvenida a mi repositorio indicandole mi proyecto de cotizacion de pc acontinuacion le dare mas detallado todo lo realizado desde como isntaalr y poder usar o probar el backend con el frontend.
 
 # Nombre del proyecto.
 
