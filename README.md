@@ -67,4 +67,6 @@ __1.__ http://localhost:9000/PcGamer/carrito
 __2.__ http://localhost:9000/PcGamer/cotizacion
 
 
+# Agradecimientos
 
+Muchas gracias maestro por la enseñanza en este ciclo me llevo muchos conocimiento en base a lo de uso del CRUD y el DOM utilizando backend y frotend usando Node como backend y como usar servidores. Esto seri todo mi proyecto y que pase un excelente dia..
