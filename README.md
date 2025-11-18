@@ -44,6 +44,8 @@ Se debe colocar un comando al terminal o el powerShell para inicializar le saldr
 
 __1.__ nodemon .\index.js
 
+Le saldra un mensaje de servior iniciado en el pierto 9000 este puerto es el que yo coloque en el server.js y confirmdo en el env.
+
 *___Colocar en el navegador por ejemplo chrome o edge__*
 
 __2__ http://localhost:9000/
