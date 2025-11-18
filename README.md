@@ -1,6 +1,6 @@
 # PcGamers_Backend_EXM6B
 
-Muy buenas maestro soy Tenorio Castillo Johnny Leonel de 6 "B" de TIC le quiero dar la bienvenida a mi repositorio indicandole mi proyecto de cotizacion de pc acontinuacion le dare mas detallado todo lo realizado desde como isntaalr y poder usar o probar el backend con el frontend.
+Muy buenas maestro soy Tenorio Castillo Johnny Leonel de 6 "B" de TIC le quiero dar la bienvenida a mi repositorio indicandole mi proyecto de cotizacion de pc "PcGamer" acontinuacion le dare mas detallado todo lo realizado desde como se instala y como poder usar o probar el backend con el frontend.
 
 # Nombre del proyecto.
 
@@ -44,7 +44,7 @@ Se debe colocar un comando al terminal o el powerShell para inicializar le saldr
 
 __1.__ nodemon .\index.js
 
-Le saldra un mensaje de servior iniciado en el pierto 9000 este puerto es el que yo coloque en el server.js y confirmdo en el env.
+Le saldra un mensaje que el servidor esta iniciado en el puerto 9000 este puerto es el que yo coloque en el server.js y confirmdo en el env.
 
 *___Colocar en el navegador por ejemplo chrome o edge__*
 
