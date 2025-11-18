@@ -4,7 +4,7 @@ Muy buenas maestro soy Tenorio Castillo Johnny Leonel de 6 "B" de TIC le quiero 
 
 # Nombre del proyecto.
 
-Pc_Gamer
+Pc_GamerTC
 
 # Instrucciones para la instalación y ejecución del backend.
 
