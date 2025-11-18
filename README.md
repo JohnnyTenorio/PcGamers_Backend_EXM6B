@@ -22,7 +22,7 @@ Despues debemos extraer el proyecto, etc. Y despues entrar a la carpeta del proy
 
 *__Instalar dependencia__*
 
-__1__ npm install
+__1.__ npm install
 
 En este caso al instalar la dependencia se actualiara todo lo que esta en el packend.json y despues debera instalar dado caso no tenga el nodemon se instala con este comando y tambien los otros comando que se uso dado caso falta alguno 
 
@@ -48,10 +48,23 @@ Le saldra un mensaje que el servidor esta iniciado en el puerto 9000 este puerto
 
 *___Colocar en el navegador por ejemplo chrome o edge__*
 
-__2__ http://localhost:9000/
+__2___ http://localhost:9000/
 
 
 Esto seria todo para instalar y poder inicializar el servior con la pagina web involucrando la api en resumen frontend y backend y usando el metodo CRUD
 
 
 # Descripción de las rutas de la API.
+
+Para poder usar la ruta y ver la validacion de que se esta guardando, modificando y eliminando correctamente los datos fue establecido como /api/ la ruta principal y en vase a esa se unio lo que es los otros apartado en este caso creé dos el de /carrito/ y /cotizacion/ como se podra usar acontinuacion les colocare las rutas para poder ver los datos 
+
+*__Para poder ver el manejo del index.html desde ese punto guarda la informacion y envia a carrito usando el metodo de guardar y en la ruta carrito aparece los datos que se guardo desde ahi__*
+
+__1.__ http://localhost:9000/api/carrito
+
+*__Aqui podra obtener los datos desde la pagina cotizacion.html desde el boton cotiza YA! desde ahi se envia al carrito aparece la informacion  aplicara los dos crud restante el de modificar y el de eliminar y eso funciona con normalidad en las dos rutas__*
+
+__2.__ http://localhost:9000/api/cotizacion
+
+
+
